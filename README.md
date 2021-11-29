@@ -21,6 +21,10 @@ https://www.figma.com/file/BHNGGjNe0KQbMccXgRHAMS/Form-exercise---Book-a-train?n
 
 **Input:** https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
 
+**Button cheat sheet:** https://www.buttoncheatsheet.com/
+
 ## Videor
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/EhikCe2iU6pDp2AQ-IQeCjQBmdnhmJ5I5wKpBHiaU17JyQ?e=UQyn6I
