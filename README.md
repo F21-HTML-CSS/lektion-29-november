@@ -12,6 +12,11 @@
 Återskapa följande skiss:
 https://www.figma.com/file/kImCXQOWmO4OxAfqGH6vli/HTML-Forms---Create-account?node-id=0%3A1
 
+**Book a train - formulär**
+
+Återskapa följande skiss:
+https://www.figma.com/file/BHNGGjNe0KQbMccXgRHAMS/Form-exercise---Book-a-train?node-id=0%3A1
+
 ## Artiklar
 
 **Input:** https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
